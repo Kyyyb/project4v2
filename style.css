@@ -1,0 +1,56 @@
+body {
+	margin:20px;
+	padding:1px;
+	text-align:
+	justify;
+	line-height: 120%;
+	}
+main {
+	display: flex;
+	justify-content: center;
+	padding: 24px;
+	}
+	.ul {
+	list-style: none;
+	text-align: center;
+	}
+.nav ul li {
+	display: inline-block;
+	}
+.container {
+	text-align: center;
+	width: 800px;
+	margin: 0 auto;
+	}
+.center {
+	display: block; 
+	margin-left: auto; 
+	margin-right: auto; 
+	width: 50%;
+	}
+p {
+	overflow: hidden;
+	text-align: justify;
+	text-indent: 1.25em; 
+	margin: 0; 
+	widows: 2; 
+	orphans: 2;
+	}
+h1 {
+	font: bold 2.5em "Marko One", Snell Roundhand, cursive; 
+	color: brown; 
+	text-shadow: .1em .05em .1em lightslategray; 
+	text-align: center; 
+	font-stretch: extra-expanded;
+	}
+h2 {
+	font-size: 1em; 
+	text-transform: uppercase; 
+	letter-spacing: .5em; 
+	color: olive;
+	}
+footer {
+	display: flex;
+	justify-content: center;
+	padding: 24px;
+	}
